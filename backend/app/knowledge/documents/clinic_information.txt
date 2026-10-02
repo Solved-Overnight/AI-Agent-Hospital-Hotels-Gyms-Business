@@ -1,0 +1,14 @@
+BrightSmile Dental Clinic
+
+Opening Hours:
+Monday - Saturday: 9:00 AM - 8:00 PM
+Sunday: Closed
+
+Address:
+123 Smile Avenue, Dhaka
+
+Phone:
++880 1700 000000
+
+Email:
+hello@brightsmile.example

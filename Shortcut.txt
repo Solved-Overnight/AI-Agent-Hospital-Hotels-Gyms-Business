@@ -1,0 +1,37 @@
+Stage 7 — Conversational Appointment Management
+
+The goal is to make the agent behave like a real receptionist rather than simply executing isolated tools.
+
+
+ 
+ 
+ 
+ Stage 7 Goal
+
+We want this:
+
+Patient
+   │
+   ▼
+Natural conversation
+   │
+   ├── New booking
+   │     ├── Doctor
+   │     ├── Date
+   │     ├── Patient details
+   │     ├── Availability
+   │     └── Booking
+   │
+   ├── Check appointment
+   │     ├── Appointment ID
+   │     └── Phone verification
+   │
+   ├── Cancel appointment
+   │     ├── Appointment ID
+   │     └── Phone verification
+   │
+   └── Reschedule appointment
+         ├── Appointment ID
+         ├── Phone verification
+         ├── New date
+         └── Capacity check
